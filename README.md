@@ -1,0 +1,1 @@
+This MATLAB script implements the Leslie population model using matrix operations to simulate age-structured population dynamics over multiple cycles. Users input survival rates and initial population sizes, and the model forecasts future population distributions. Useful for applications in ecology, demographics, and mathematical modeling education.
